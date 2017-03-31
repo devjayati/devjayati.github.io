@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Software Components and IP Management</title>
+<meta name="description" content="Clio Mini Project">
+<meta name="tools" content="HTML,CSS,JavaScript">
+<meta name="author" content="Jayati Dev">
+<link rel="stylesheet" type="text/css" href="new1.css" media="screen" />
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<h1>Clio</h1>
+		<h2>A System For Maintaining Software and Component Information</h2>
+		<!-- Search Bar -->
+		<form id="newsearch" method="get" action="http://www.google.com">
+		        <input type="text" class="textinput" name="q" size="21" maxlength="120"><input type="submit" value="search for software components" class="searchbutton">
+		</form>
+		<div class="clear"></div><!-- end of HTML for search-->
+	</div>
+	<div id="content">
+		<div class="topnav" id="Topnav">
+			<a href="new1.html">Home</a>
+			<a href="about.html">About Us</a>
+			<a href="contribute.html">Contribute to the Community!</a>
+			<a href="login.html">Login for Contributors</a>
+			<a href="contact.html">Contact Us</a>
+		</div>
+		<h3>View Latest Components</h3><!--I wish to include sorting function as well-->
+		<table style="width:100%" align="center">
+		<tr>
+			<th>Name</th>
+			<th>License</th> 
+			<th>Details</th><!-- as a expanded menu-->
+			<th>Type(Simple/Complex)</th>
+			<th>Version</th>
+		</tr>
+		<tr> 
+		<!--Values must be taken as input from the database to which the contributor stores the data-->
+			<td>Comp1</td>
+			<td>Licen1</td>
+			<td>Det1</td>
+			<td>Simple</td>		
+			<td>1.0</td>
+			
+		</tr>
+		<tr>
+			<td>Comp2</td>
+			<td>Licen2</td>
+			<td>Det2</td>
+			<td>Complex</td>		
+			<td>2.0</td>
+		</tr>
+		</table>
+	</div>
+	<div id="footer">
+		<p>This is licensed to abcd | <a href="#pplink">Privacy Policy</a></p>
+	</div>
+</div>
+</body>
+</html>
+

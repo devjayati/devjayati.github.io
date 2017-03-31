@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contributor Login Page</title>
+<meta name="description" content="Login Page">
+<meta name="tools" content="HTML">
+<meta name="author" content="Jayati Dev">
+<link rel="stylesheet" type="text/css" href="new1.css" media="screen" />
+</head>
+<body>
+	<div id="header">
+		<h1>Clio</h1>
+		<h2>A System For Maintaining Software and Component Information</h2>
+		<!-- Search Bar -->
+		<form id="newsearch" method="get" action="http://www.google.com">
+		        <input type="text" class="textinput" name="q" size="21" maxlength="120"><input type="submit" value="search for software components" class="searchbutton">
+		</form>
+		<div class="clear"></div><!-- end of HTML for search-->
+		<div class="topnav" id="Topnav"><!--I wish to do this with Bootstrap so that sorting function can be included-->
+			<a href="new1.html">Home</a>
+			<a href="about.html">About Us</a>
+			<a href="contribute.html">Contribute to the Community!</a>
+			<a href="login.html">Login for Contributors</a>
+			<a href="contact.html">Contact Us</a>
+		</div>
+	</div>
+	<div class="content">
+		<h2>Add New Component</h2>
+		<p>New components can be added by authorised contributors only</p><h3>Login Here</h3>
+		<form action="action.php"><!-- verify login and show add.html page"-->
+			<div class="container">
+				<label><b>Username</b></label>
+					<input type="text" placeholder="Enter Username" name="uname" required><br></br>
+				<label><b>Password</b></label>
+					<input type="password" placeholder="Enter Password" name="pwd" required><br></br>
+				<button type="submit">Login</button><!-- some modification here-->
+			</div>
+			<div>
+				<span class="psw">Forgot <a href="#forgotpasswordlink?">Password?</a></span>
+			</div>
+		</form>
+	</div>
+	<div id="footer">
+		<p>This is licensed to abcd | <a href="#pplink">Privacy Policy</a></p>
+	</div>
+</body>
+</html>
