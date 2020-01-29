@@ -69,7 +69,7 @@ line-height:25px;
 
 #footer
 {
-color:#ffffff;
+color:#c0c0c0;
 font-size:10px;
 clear:both;
 width:641px;
@@ -84,7 +84,7 @@ font-weight:normal;
 #footer a, #footer a:visited, #footer a:hover
 {
 font-size:10px;
-color:#FFFFFF;
+color:#c0c0c0;
 text-decoration:none;
 line-height:25px;
 }
@@ -121,7 +121,7 @@ margin:6px;
 
 .divider
 {
-background-image:url(divider.jpg);
+background-image:url(../SimpleFactorial/right_header.png);
 width:408px;
 height:3px;
 margin-bottom:10px;
@@ -145,24 +145,43 @@ color:#FFFFFF;
 text-align:center;
 }
 
-ul,  li
+#map {
+        width: 100%;
+        height: 400px;
+        background-color: grey;
+      }
+	  
+.box {
+  background-color: #ade6e6;
+  width: 100px;
+  height: 100px;
+  padding: 20px;
+  margin: 20px;
+  float: left;
+  text-align: center;
+}
+
+ul
 {
 text-align:center;
 padding:3px;
-list-style-image:url(link_image.png);
 }
-
+li
+{
+text-align:left;
+padding:3px;
+}
 
 
 a, a:visited
 {
 text-decoration:none;
-color:#9B1313;
+color:#00a2e8;
 }
 
 a:hover
 {
-color:#9B1313;
-border-bottom:dashed 1px #DD6A6A;
+color:#00a2e8;
+#border-bottom:dashed 1px #DD6A6A;
 }
 
