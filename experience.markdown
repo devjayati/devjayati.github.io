@@ -26,7 +26,7 @@ permalink: /experience/
 ## Teaching Positions 
 
 - Associate Instructor, Indiana University, 2017 - 2019, 2022
--- INFO-I 231: Mathematics of Cybersecurity
--- INFO-I 494: Design and Development of an Information System
--- INFO-I 495: Design and Development of an Information System
--- INFO-I 230: Analytics of Cybersecurity 
+    - INFO-I 231: Mathematics of Cybersecurity
+    - INFO-I 494: Design and Development of an Information System
+    - INFO-I 495: Design and Development of an Information System
+    - INFO-I 230: Analytics of Cybersecurity 
