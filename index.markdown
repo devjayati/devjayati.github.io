@@ -11,5 +11,5 @@ I have been a Google Public Policy fellow and a co-lead researcher in a National
 
 I also hold a Bachelor of Technology degree in Electronics and Communication Engineering from West Bengal Univerity of Technology, where I got introduced to cryptography through Indian Statistical Institute, Kolkata.
 
-Outside of work, I like traveling (with lots of hiking) and reading manga. I do not have a lot of pictures yet, but some of my trips from last three years are on [Instagram](https://www.instagram.com/devjayati.dev2021/). 
+Outside of work, I like traveling (with lots of hiking) and reading manga. I do not have a lot of pictures yet, but some of the trips from last three years are on [Instagram](https://www.instagram.com/devjayati.dev2021/). 
 
