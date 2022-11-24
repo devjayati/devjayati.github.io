@@ -4,7 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-## Research Interests
 My current work is in privacy threat modeling. I am broadly interested in privacy-preserving socio-technical research, with a specific focus on vulnerable population groups. 
 
 ## Public Projects 

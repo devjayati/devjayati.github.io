@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<img align="left" src="image.jpg" style='padding:1%;width:30%;height:auto;'>
+<img align="left" src="image.jpg" style='margin:2%;width:30%;height:auto;'>
 
 Hello! I am a cybersecurity researcher building tools and processes to protect user privacy. I am currently a Privacy Engineer in the [Comcast Cyber Security](https://corporate.comcast.com/ccs-research) research team helping build privacy threat modeling processes. I hold a PhD in Security Informatics from [Indiana University Bloomington](https://luddy.indiana.edu/index.html) where I worked on privacy-preserving technologies in conversational platforms with [Professor L. Jean Camp](https://www.ljean.com/). My research interests are in inclusive and usable privacy. 
 
