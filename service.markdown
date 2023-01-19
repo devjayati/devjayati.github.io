@@ -5,14 +5,15 @@ permalink: /service/
 ---
 
 ## Chair
-- Workshop Chair, Workhop on Kids' Online Privacy and Security (KOPS) at <i>Symposium on Usable Privacy and Security (USENIX SOUPS)</i>
-- Associate Chair, ACM CHI Late-Breaking Works
+- Workshop Chair, Workshop on Child Online Safety and Harms (COSH) at <i>European Interdisciplinary Cybersecurity Conference (EICC) </i>, 2023
+- Workshop Chair, Workshop on Kids' Online Privacy and Security (KOPS) at <i>Symposium on Usable Privacy and Security (USENIX SOUPS)</i>, 2022
+- Associate Chair, ACM CHI Late-Breaking Works, 2020 - Present
 - Department Editor, ACM XRDS Magazine 'Hello World', 2019 - 2021
 
 ## Committee Memberships 
 - Workshop on Usable Security (USEC) at <i>Network and Distributed System Symposium (NDSS)</i>, 2020 - Present
 - Preparing Future Faculty (PFF) Conference, 2018 - 2020
-National Center for Women Information Technology, 2020 - Present
+- National Center for Women Information Technology, 2020 - 2022
 
 ## Non-working Memberships
 - ACM US Technology and Policy Committee, 2021 - Present
@@ -21,7 +22,7 @@ National Center for Women Information Technology, 2020 - Present
 
 ## Peer-reviewer
 - ACM Conference on Computer Supported Cooperative Work (CSCW), 2021 - Present
-- ACM Conference on Computer-Human Interaction (CHI) Papers, Extended Abstracts, Alt.Chi, 2019 - Present
+- ACM Conference on Computer-Human Interaction (CHI) Papers, Late-breaking Works, Alt.Chi, 2019 - Present
 - ACM Tangible, Embedded, and Embodied Interaction (TEI), 2020 - Present
 - Journal of Computers in Human Behavior Reports, 2021
 - Conference on Social Media and Society (SM&S), 2021

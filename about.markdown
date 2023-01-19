@@ -6,6 +6,9 @@ permalink: /research/
 
 My current work is in privacy threat modeling. I am broadly interested in privacy-preserving socio-technical research, with a specific focus on vulnerable population groups. 
 
+## Media
+- K, Wells. (2023). Email Unsubscribe Services Don’t Really Work. Follow This (Free) Advice Instead. New York Times. [Read Here](https://www.nytimes.com/wirecutter/reviews/best-email-unsubscribe-service).
+
 ## Public Projects 
 - J Dev, B Rashidi, V Garg. Models of Applied Privacy (MAP). 2022. [GitHub](https://github.com/Comcast/MAP).
 - J Dev, D Kim, B Momendazeh, J Streiff, LJ Camp. Cyber Learning Platform for K-12 Students. 2020. [Website](https://k12cyberctf.cognitivesecurity.net/cysp/). For access, please contact: spice@indiana.edu.
@@ -22,10 +25,14 @@ My current work is in privacy threat modeling. I am broadly interested in privac
 ## Conference and Workshop Publications 
 A complete list of publications and citations are available on  [Google Scholar](https://scholar.google.com/citations?user=uRjCQ8cAAAAJ&hl=en&oi=ao).
 
-### 2022
-
+### 2023 
 <i> (Two publications under review process) </i>
 
+- J Dev, B Rashidi, V Garg. ACM CHI 2023. [TBD](https://devjayati.github.io/research/).
+
+### 2022
+
+- J Abbott, J Dev, D Kim, S Gopavaram, M Iyer, S Sadam, S Mare, V Andalibi and LJ Camp. Kids, Cats, and Control: Designing Privacy and Security Dashboards for IoT Home Devices. USEC 2022. [TBD](https://devjayati.github.io/research/).
 - J Abbott, J Dev, D Kim, S Gopavaram, M Iyer, S Sadam, S Mare, T Ringenberg, V Andalibi, LJ Camp. Privacy Lessons Learnt from Deploying an IoT Ecosystem in the Home. EuroUSEC 2022. [Paper](https://dl.acm.org/doi/abs/10.1145/3549015.3554205).
 
 ### 2021
