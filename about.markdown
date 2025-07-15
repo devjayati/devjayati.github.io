@@ -19,7 +19,7 @@ Privado. (2023). Interview with a Privacy Engineer. [Read Here](https://www.link
 ## Conferences, Workshops, and Talks 
 A complete list of published work is available on  [Google Scholar](https://scholar.google.com/citations?user=uRjCQ8cAAAAJ&hl=en&oi=ao).
 
-<i> This section is not updated. Please refer to the link above or my [CV]() for updated list. 
+<i> This section is not updated. Please refer to the link above or my [CV](https://github.com/devjayati/devjayati.github.io/blob/master/CV_Jayati_Dev_December2024.pdf) for updated list. </i>
 
 ### 2023 
 - J Dev, B Rashidi, V Garg. ACM CHI 2023. [TBD](https://devjayati.github.io/research/).
