@@ -4,30 +4,24 @@ title: Research
 permalink: /research/
 ---
 
-My current work is in privacy threat modeling. I am broadly interested in privacy-preserving socio-technical research, with a specific focus on vulnerable population groups. 
+My current work is in privacy and emerging tech policy. I am broadly interested in privacy-preserving socio-technical research, with a specific focus on vulnerable population groups. 
 
 ## Media
-- K, Wells. (2023). Email Unsubscribe Services Don’t Really Work. Follow This (Free) Advice Instead. New York Times. [Read Here](https://www.nytimes.com/wirecutter/reviews/best-email-unsubscribe-service).
+- Readers’ Digest. (2024). Does Unsubscribing from Emails Work—and Is It Safe to Do. [Read Here](https://www.rd.com/article/does-unsubscribing-from-emails-work-and-is-it-safe-to-do/).
+- TVNewsCheck. (2023). Cybersecurity for Broadcasters Retreat. Converging Digital Disruptors and Media Industry Security. [Read Here](https://tvnewscheck.com/digital/article/cyber-experts-to-take-on-converging-digital-disruptors-and-media-industry-security/).
+Privado. (2023). Interview with a Privacy Engineer. [Read Here](https://www.linkedin.com/events/7094671030534717441/).
+- Wirecutter, New York Times. (2023). Email Unsubscribe Services Don’t Really Work. Follow This (Free) Advice Instead. New York Times. [Read Here](https://www.nytimes.com/wirecutter/reviews/best-email-unsubscribe-service).
 
 ## Public Projects 
 - J Dev, B Rashidi, V Garg. Models of Applied Privacy (MAP). 2022. [GitHub](https://github.com/Comcast/MAP).
 - J Dev, D Kim, B Momendazeh, J Streiff, LJ Camp. Cyber Learning Platform for K-12 Students. 2020. [Website](https://k12cyberctf.cognitivesecurity.net/cysp/). For access, please contact: spice@indiana.edu.
 
-## Public Talks 
-- J Dev, T Ringenberg, LJ Camp. Privacy and Respectful Discourse in AI Chatbots at <i>Privacy Engineering Practice and Respect (PEPR)</i>, 2022
-- S Gopavaram, J Dev, LJ Camp. Creating Effective Labels at <i>Privacy Engineering Practice and Respect (PEPR)</i>, 2022
-- J Dev. Colorado Privacy Act@Community of Growth at <i>Crowe LLP</i>, 2021
-- J Dev. Understanding Privacy through Reddit and Twitter at <i>Women in Cybersecurity (WiCyS)</i>, 2021
-- J Dev, LJ Camp. Privacy in Chatbots at <i>Conference on Conversational User Interfaces (CUI)</i>, 2020
-- J Dev, E Rader, S Patil. Barriers from Stopping Unwanted Emails at <i>ACM Conference on Human-Computer Interaction (CHI)</i>, 2020
-- J Dev, P Moriano, LJ Camp. WhatsApp Privacy in India and Saudi Arabia at <i>USENIX Usable Privacy and Security (SOUPS)</i>, 2020
+## Conferences, Workshops, and Talks 
+A complete list of published work is available on  [Google Scholar](https://scholar.google.com/citations?user=uRjCQ8cAAAAJ&hl=en&oi=ao).
 
-## Conference and Workshop Publications 
-A complete list of publications and citations are available on  [Google Scholar](https://scholar.google.com/citations?user=uRjCQ8cAAAAJ&hl=en&oi=ao).
+<i> This section is not updated. Please refer to the link above or my [CV]() for updated list. 
 
 ### 2023 
-<i> (Two publications under review process) </i>
-
 - J Dev, B Rashidi, V Garg. ACM CHI 2023. [TBD](https://devjayati.github.io/research/).
 
 ### 2022
