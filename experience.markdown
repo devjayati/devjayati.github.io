@@ -14,7 +14,7 @@ permalink: /experience/
 
 ## Industry Positions 
 
-- Research, Cybersercurity R&D and Public Policy, Comcast. 2022 - Present
+- Researcher, Cybersercurity R&D and Public Policy, Comcast. 2022 - Present
 - Consulting Intern, Privacy, Data Protection, and Compliance, Crowe LLP, 2021 - August 2021
 
 ## Academic Positions 
