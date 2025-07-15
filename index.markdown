@@ -19,7 +19,7 @@ Outside of work, I like traveling (with lots of hiking) and reading manga.
 # News! 
 - If you are at BSides Las Vegas 2025, would love if you can join us for [the workshop on cybersecurity policy](https://bsideslv.org/) that Vaibhav and I will be running! Come chat with us, participate, co-host. 
   
-- Finally updated this page! I am on CSCC and SCTE New England board. One of the new things we are kicking off this year is the New England chapter for the Internet Society. Please ping me at the email address below.
+- Finally updated this page! I am on CSCC and SCTE New England board. One of the new things we are kicking off this year is the New England chapter for the Internet Society. Please ping me at the email address below if you would like to be involved.
   
 - Looking for new privacy engineering tools? Learning how to conduct privacy threat models? Here is our new open-source framework to help you get started: [MAP](https://github.com/Comcast/MAP).
 
