@@ -6,6 +6,7 @@ permalink: /experience/
 
 ## Awards
 
+- Comcast NBCU Circle of Success Award, 2025
 - Indiana University Luddy Summer Research Award, 2021
 - Women in Cybersecurity Scholarship, 2018, 2019, 2021
 - Center for Women in Technology Mentor Fellowship, 2020
@@ -13,7 +14,7 @@ permalink: /experience/
 
 ## Industry Positions 
 
-- Privacy Engineer, Cybersercurity Research and Development, Comcast. 2022 - Present
+- Research, Cybersercurity R&D and Public Policy, Comcast. 2022 - Present
 - Consulting Intern, Privacy, Data Protection, and Compliance, Crowe LLP, 2021 - August 2021
 
 ## Academic Positions 
